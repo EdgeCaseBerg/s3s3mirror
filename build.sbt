@@ -10,6 +10,8 @@ version := "1.2.6-SNAPSHOT"
  
 scalaVersion := "2.11.7"
 
+javacOptions ++= Seq("-source", "1.6")
+
 val slf4jVersion = "1.6.4"
 
 val junitVersion = "4.8"
