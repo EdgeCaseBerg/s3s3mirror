@@ -4,9 +4,7 @@ organization := "org.cobbzilla"
 
 name := "s3s3mirror"
  
-// http://semver.org/ for versioning. We'll reach 1.0.0 when we have a working mvp
-
-version := "1.2.6-SNAPSHOT"
+version := "1.2.6-SCALA-SNAPSHOT"
  
 scalaVersion := "2.11.7"
 
